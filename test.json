@@ -1,5 +1,6 @@
 {
     "name":"demo",
     "age":20,
-    "sex":"男"
+    "sex":"男",
+    "address":"XXXX"
 }
